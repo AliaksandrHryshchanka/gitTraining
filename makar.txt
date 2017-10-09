@@ -1,0 +1,6 @@
+How to Install Android SDK / ADB on Windows
+Android is an Operating System for mobile devices developed by Google, which is built upon Linux kernel.
+ Android competes with Apple’s iOS (for iPhone/iPad), RIM’s Blackberry, Microsoft’s Windows Phone, Symbian
+ OS, and many other proprietary mobile OSes. The Android Software Developer Kit, simply named as Android SDK,
+ or ADB is what all the advance users of Android should have installed 
+on their Windows running computers.
