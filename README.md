@@ -3,6 +3,6 @@ update
 # gitTraining
 
 
-Hi from Makar!!)
+Hi from Makar GIT HUB!!)
 I do what i want!!
 
