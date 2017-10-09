@@ -1,8 +1,9 @@
 
 update
-# gitTraining
+
+gitTraining
 
 
-Hi from Makar GIT HUB!!)
-I do what i want!!
+Hi from Makar!!) I do what i want!!
+
 
