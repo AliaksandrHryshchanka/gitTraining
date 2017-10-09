@@ -1,2 +1,2 @@
 # gitTraining
-Hi from Makar!!)
+main branch (master)
