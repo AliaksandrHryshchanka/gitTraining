@@ -1,1 +1,2 @@
 # gitTraining
+Hi from Makar!!)
